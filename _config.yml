@@ -21,7 +21,7 @@ nav:
 
 # Footer
 footer:
-  since: 2017
+  since: 2021
 
 # Author 配置博主信息
 author: 'smileb0mb'
@@ -44,7 +44,7 @@ comments:
 mathjax: true
 
 # Share
-social-share: true
+social-share: false
 social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
 
 # theme color 主题皮肤
